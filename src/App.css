@@ -1,0 +1,12 @@
+.dashboard {
+  padding: 20px;
+}
+
+.metrics {
+  display: flex;
+  justify-content: space-around;
+}
+
+.charts, .table {
+  margin-top: 20px;
+}
